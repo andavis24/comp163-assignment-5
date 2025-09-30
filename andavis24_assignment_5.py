@@ -1,7 +1,3 @@
-# COMP 163 - Assignment 4: College Life Adventure Game
-# Author: Ajani Davis
-# This program simulates college decisions using branching logic.
-
 # === Challenge 1: Collatz Conjecture ===
 print("=== Challenge 1: Collatz Conjecture ===")
 
